@@ -1,0 +1,11 @@
+h1 {
+    color: seagreen;
+        font-size: 35px;
+        font-family: sans-serif, Helvetica; 
+        text-align: center;
+}
+
+img {
+    align-items: center;
+    width: 200px;
+}
