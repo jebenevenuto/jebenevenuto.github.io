@@ -1,12 +1,12 @@
 h1 {
-    color: whitesmoke
-    background-color: seagreen;
+    color: whitesmoke;
+    background-color: blue;
         font-size: 35px;
         font-family: sans-serif, Helvetica; 
         text-align: center;
 }
 
 img {
-    align-items: center;
+    align-content: center;
     width: 200px;
 }
