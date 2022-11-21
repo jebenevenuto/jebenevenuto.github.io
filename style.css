@@ -2,12 +2,41 @@
     margin: 0%;
     padding: 0%;
     color: whitesmoke;
-    background-color: blue;
+    background-color: ;
         font-size: 35px;
         font-family: sans-serif, Helvetica; 
         text-align: center;
 }
+/* ! Cabecalho*/
 
+#cabecalho{
+background-color: black;
+display: flex;
+position: fixed;
+top: 0%;
+width: 100%;
+padding: 15px;
+justify-content: space-between;
+}
+
+#cabecalho div{
+margin-left: 50px;
+}
+
+#cabecalho div a{
+text-decoration: none;
+color: white;
+}
+
+#cabecalho div a:hover{
+color:blueviolet
+}
+
+#cabecalho nav ul{
+    display: flex;
+    list-style: none;
+    
+}
 img {
     align-content: center;
     width: 200px;
